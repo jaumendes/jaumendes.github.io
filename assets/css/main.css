@@ -2166,32 +2166,32 @@ input, select, textarea {
 	}
 	
 	.panel > *.color0 {
-		//background-image: url("../../images/overlay.png"), linear-gradient(45deg, #072446 20%, #013a67 60%, #e1aa12);
-		background-image: url("../../images/overlay.png"), linear-gradient(45deg, black 20%, #333333 60%, #e1aa12);
+		//background-image: url("../../images/overlay.png"), linear-gradient(45deg, #072446 20%, #013a67 60%, #0005ef);
+		background-image: url("../../images/overlay.png"), linear-gradient(45deg, black 20%, #333333 60%, #0005ef);
 		background-size: 128px 128px, auto;
 		background-color: #081D27; /* Updated color */
 	}
 	
 	.panel > *.color1 {
-		background-image: url("../../images/overlay.png"), linear-gradient(45deg, black 20%,#333333 60%, #e1aa12);
+		background-image: url("../../images/overlay.png"), linear-gradient(45deg, black 20%,#333333 60%, #0005ef);
 		background-size: 128px 128px, auto;
 		background-color: #444D52; /* Updated color */
 	}
 	
 	.panel > *.color2 {
-		background-image: url("../../images/overlay.png"), linear-gradient(45deg, black 20%, #333333 60%, #e1aa12);
+		background-image: url("../../images/overlay.png"), linear-gradient(45deg, black 20%, #333333 60%, #0005ef);
 		background-size: 128px 128px, auto;
 		background-color: #444D52; /* Updated color */
 	}
 	
 	.panel > *.color3 {
-		background-image: url("../../images/overlay.png"), linear-gradient(45deg, black 20%, #333333 60%, #e1aa12);
+		background-image: url("../../images/overlay.png"), linear-gradient(45deg, black 20%, #333333 60%, #0005ef);
 		background-size: 128px 128px, auto;
 		background-color: #444D52; /* Updated color */
 	}
 	
 	.panel > *.color1-alt {
-		background-image: url("../../images/overlay.png"), linear-gradient(45deg, black 20%, #333333 60%, #e1aa12);
+		background-image: url("../../images/overlay.png"), linear-gradient(45deg, black 20%, #333333 60%, #0005ef);
 		background-size: 128px 128px, auto;
 		background-color: #081D27; /* Updated color */
 	}
